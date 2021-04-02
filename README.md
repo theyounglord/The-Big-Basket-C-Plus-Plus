@@ -4,7 +4,7 @@ This repo is Developed to keep track of your learning status of C++ in accordanc
 Before starting this repo i was not able to keep myself consistent and motivated towards my learning journey so i decided why not make a checklist repo which can somehow provide me a sense of achievement and also keep track of my learning the programming with c++. So thats when i decided to make this repo.
 
 It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
-## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaHLqcTzni1C9UFSiHfEruukQo7nwPeEBMXoEss4dpS5WYk9FbPCOma04J3-hD7ERVpk0&usqp=CAU" width="100px">How to use it
+## <img src="https://media0.giphy.com/media/xUPGcqrPHgjS1bzhWU/giphy.gif" width="70px">How to use this repo?
 
 Everything below is an outline, and you should tackle the items in order from top to bottom.
 
