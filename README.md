@@ -22,7 +22,7 @@ Fork the GitHub repo https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus 
 
 `git checkout -b progress`
 
-`git remote add jwasham https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus`
+`git remote add theyounglord https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus`
 
 `git fetch --all`
 
