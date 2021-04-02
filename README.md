@@ -14,15 +14,15 @@ I'm using Github's special markdown flavor, including tasks lists to track progr
 
     Fork a branch and follow the commands below
 
-Fork the GitHub repo https://github.com/jwasham/coding-interview-university by clicking on the Fork button
+Fork the GitHub repo https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus by clicking on the Fork button
 
     Clone to your local repo
 
-`git clone git@github.com:<your_github_username>/coding-interview-university.git`
+`git clone git@github.com:<your_github_username>/The-Big-Basket-C-Plus-Plus.git`
 
 `git checkout -b progress`
 
-`git remote add jwasham https://github.com/jwasham/coding-interview-university`
+`git remote add jwasham https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus`
 
 `git fetch --all`
 
@@ -32,7 +32,7 @@ Fork the GitHub repo https://github.com/jwasham/coding-interview-university by c
 
 `git commit -m "Marked x"`
 
-`git rebase jwasham/main`
+`git rebase theyounglord/main`
 
 `git push --set-upstream origin progress`
 
