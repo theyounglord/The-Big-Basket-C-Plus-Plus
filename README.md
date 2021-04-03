@@ -39,3 +39,5 @@ Fork the GitHub repo https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus 
 `git push --force`
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+
+# <img src="https://i.pinimg.com/originals/42/65/e6/4265e6f8fcf0441f5bac6fb14498a60f.gif" width="100px">Let's get started & Best of Luck
