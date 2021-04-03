@@ -52,4 +52,5 @@ Fork the GitHub repo https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus 
 - [ ] Understandig the syntex of Input Output in C++ [For Indians](https://www.youtube.com/watch?v=7dPdMtBX1d8&t=7s)/[Other than Indians](https://www.youtube.com/watch?v=I16GqVWJXKE)
 - [ ] Write a program to take two numbers as input from the user and then find average of those two numbers
 - [ ] Understanding the syntex of If/Else Statement [For Indians](https://www.youtube.com/watch?v=cyB3HNlQyjY&t=1s)/[Other than Indians](https://www.youtube.com/watch?v=mlOePMa8_P4)
-- [ ] 
+- [ ] Program to find Maximum of three numbers
+- [ ] Program to find even or odd among two numbers `Possible Case -Both Even -Both odd -One even && One odd -One odd && one even
