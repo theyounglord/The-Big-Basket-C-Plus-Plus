@@ -42,3 +42,12 @@ Fork the GitHub repo https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus 
 
 # <img src="Assets/chimera-studios-odette-v2.gif" width="100px"> Let's get started & Best of Luck<img src="Assets/ce9a1890037a40e495e7d217cee03dbc.gif" width="150px">
 
+- [ ] [Introduction to Programming Language](https://drive.google.com/file/d/1nq4TGnbP7k7o_ofNZJ4UDclEwWrn_iaF/view)
+
+- [ ] [Install VScode](https://code.visualstudio.com/download)
+- [ ] [Setup VScode with c++ ](https://code.visualstudio.com/docs/languages/cpp)
+- [ ] [Writing first program on c++]
+- [ ] [Data types](https://www.geeksforgeeks.org/c-data-types/)
+- [ ] [Type Modifiers](https://www.tutorialspoint.com/cplusplus/cpp_modifier_types.htm)
+- [ ] Understandig the syntex of Input Output in C++[For Indians](https://www.youtube.com/watch?v=7dPdMtBX1d8&t=7s)/[Other than Indians](https://www.youtube.com/watch?v=I16GqVWJXKE)
+- [ ] 
