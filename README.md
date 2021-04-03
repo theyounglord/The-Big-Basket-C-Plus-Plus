@@ -40,5 +40,5 @@ Fork the GitHub repo https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus 
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-# <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9DWGymtSUGv9cri-s_QlxlZBBSF05EgmR_w&usqp=CAU" width="100px">Let's get started & Best of Luck
+# <img src="Assets/chimera-studios-odette-v2.gif" width="100px"> Let's get started & Best of Luck<img src="Assets/ce9a1890037a40e495e7d217cee03dbc.gif" width="150px">
 
