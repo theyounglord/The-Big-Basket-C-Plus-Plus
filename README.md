@@ -149,4 +149,4 @@ behind the Programs on your `NoteBooks`first and then code on your systems. Also
 
 repo in his/her own way. you guys are free to do. Thank you .
 ```
-# <img src="Assets/star.gif" width="50px"><img src="Assets/star.gif" width="50px">Level-2  Logic building phase<img src="Assets/star.gif" width="50px"><img src="Assets/star.gif" width="50px">
+# <img src="Assets/star.gif" width="50px"><img src="Assets/star.gif" width="50px">Level-2  LogicBuilding phase<img src="Assets/star.gif" width="50px"><img src="Assets/star.gif" width="50px">
