@@ -46,7 +46,7 @@ Fork the GitHub repo https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus 
 
 - [ ] [Install VScode](https://code.visualstudio.com/download)
 - [ ] [Setup VScode with c++ ](https://code.visualstudio.com/docs/languages/cpp)
-- [ ] [Writing first program on c++]
+- [ ] Writing first program on c++
 - [ ] [Data types](https://www.geeksforgeeks.org/c-data-types/)
 - [ ] [Type Modifiers](https://www.tutorialspoint.com/cplusplus/cpp_modifier_types.htm)
 ## Understandig the syntex of Input Output in C++ [For Indians](https://www.youtube.com/watch?v=7dPdMtBX1d8&t=7s)/[Other than Indians](https://www.youtube.com/watch?v=I16GqVWJXKE)
