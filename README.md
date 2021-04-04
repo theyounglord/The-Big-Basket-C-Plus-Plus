@@ -140,3 +140,5 @@ int32_t main(){
 - [ ] Program to take an integer as an input from the user and tell whether it is equal to, less than or more than 10
 - [ ] Program to check that whether a number is divisible by both 2 and 3 or it is divisible by only one of them
 - [ ] [Solve all questions in this pdf<img src="Assets/pdf.gif" width="50px" align="center">](https://drive.google.com/file/d/1QtBvLHK-8d-zPlKQp2pa3m_lgVnG1ecl/view)
+# <img src="Assets/star.gif" width="50px">Level-1  Getting Started - Completed<img src="Assets/star.gif" width="50px">
+# <img src="Assets/anouncement.gif" width="50px">Important anouncement before getting to the next level<img src="Assets/anouncement.gif" width="50px">
