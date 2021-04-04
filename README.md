@@ -71,3 +71,69 @@ Fork the GitHub repo https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus 
 - [ ] Program to print all the numbers between 1 to 100 except those numbers which are divisible by 3
 - [ ] Program to check that whether given number is prime or not
 - [ ] Program to print all prime numbers between a given range ```i.e. from a+1 to b-1```
+## Understanding the concept of Switch Satements [For Indians](https://www.youtube.com/watch?v=G80-j_xnE_8&t=19s)/[Other Indians](https://www.youtube.com/watch?v=GSja2w-HN20)
+- [ ] Program to write hello in five different languages ```i.e. ask the user to enter the langauage key and the program will print hello in that particular language```
+- [ ] Program to implement basic arithmetic operations between two number
+## [Understanding the concept of Operators](https://drive.google.com/file/d/1QtBvLHK-8d-zPlKQp2pa3m_lgVnG1ecl/view)
+- [ ] What is the output of following program?
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int i=1;
+    i=i++ + ++i;
+    cout<<i<<endl;
+    return 0;
+}
+```
+- [ ] What is the output of following program?
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int i=1;
+    int j=2;
+    int k;
+    k=i + j + i++ + j++ + ++i + ++j;
+    cout<<i<<" "<<j<<" "<<k<<endl;
+    return 0;
+}
+```
+- [ ] What is the output of following program?
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int i=0;
+    i=i++ - --i + ++i - i--;
+    cout<<i<<endl;
+    return 0;
+}
+```
+- [ ] What is the output of following program?
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int i=1,j=2,k=3;
+    int m = i-- - j-- - k--;
+    cout<<i<<endl;
+    cout<<j<<endl;
+    cout<<k<<endl;
+    cout<<m<<endl;
+    return 0;
+}
+```
+- [ ] What is the output of following program?
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int i=10, j=20 ,k;
+    k = i-- - i++ + --j - ++j + --i - j-- + ++i - j++;
+    cout<<i<<endl;
+    cout<<j<<endl;
+    cout<<k<<endl;
+    return 0;
+}
+```
