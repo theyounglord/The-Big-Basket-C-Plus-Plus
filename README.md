@@ -66,4 +66,8 @@ Fork the GitHub repo https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus 
 - [ ] Program to display multiplication table upto 10
 - [ ] Program to add only positive numbers ```i.e take input from user again and again till he/she enters the negative integer and calculate the sum of all numbers till that point```
 ## Understanding the concept of jump statements [For Indians](https://www.youtube.com/watch?v=Stf7KBiA1vs&t=130s)/[Other than Indians](https://www.youtube.com/watch?v=ikGk4ZZ-uYE)
-- [ ] 
+- [ ] There is a girl called Sara and her mother allows to go out with her friends only on even days of month.Also her mother gives some Pocket money each month to her and each time she goes out she spends 500 bucks.She also cannot go outside once she is left with no pocket money. Asumming that her mother gives atleast 3000 bucks every month. Write a Program to tell sara that on which dates she can go and when she have to stop
+- [ ] Program to print all odd numbers  till n
+- [ ] Program to print all the numbers between 1 to 100 except those numbers which are divisible by 3
+- [ ] Program to check that whether given number is prime or not
+- [ ] Program to print all prime numbers between a given range ```i.e. from a+1 to b-1```
