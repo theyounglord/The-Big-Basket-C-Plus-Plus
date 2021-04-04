@@ -14,7 +14,7 @@ I'm using Github's special markdown flavor, including tasks lists to track progr
 
     Fork a branch and follow the commands below
 
-Fork the GitHub repo https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus by clicking on the Fork button on the top right corner of this repo.
+Fork the GitHub repo https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus by clicking on the Fork button on the top right corner of this repo or you can use the below method.
 
     Clone to your local repo
 
