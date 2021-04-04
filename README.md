@@ -14,7 +14,7 @@ I'm using Github's special markdown flavor, including tasks lists to track progr
 
     Fork a branch and follow the commands below
 
-Fork the GitHub repo https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus by clicking on the Fork button on the top right corner of this repo.
+Fork the GitHub repo https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus by clicking on the Fork button on the top right corner of this repo or you can use the below method.
 
     Clone to your local repo
 
@@ -41,6 +41,7 @@ Fork the GitHub repo https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 # <img src="Assets/chimera-studios-odette-v2.gif" width="100px"> Let's get started & Best of Luck<img src="Assets/ce9a1890037a40e495e7d217cee03dbc.gif" width="150px">
+# <img src="Assets/star.gif" width="50px">Level-1  Getting Started <img src="Assets/star.gif" width="50px">
 
 - [ ] [Introduction to Programming Language](https://drive.google.com/file/d/1nq4TGnbP7k7o_ofNZJ4UDclEwWrn_iaF/view)
 
@@ -57,11 +58,83 @@ Fork the GitHub repo https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus 
 - [ ] Program to find even or odd among two numbers ```Possible Case -Both Even -Both odd -One even && One odd -One odd && one even```
 - [ ] Program to check if a triangle is scalene, isosceles or equilateral
 - [ ] Program to check if an alphabet is a vowel or a consonant
-## Understanding the concept of Loops [For Indians](https://www.youtube.com/watch?v=IlIn_D1RT7M&t=2s)/[Other than indians](https://www.youtube.com/watch?v=_1AwR-un4Hk)
+## Understanding the concept of Loops [For Indians](https://www.youtube.com/watch?v=IlIn_D1RT7M&t=2s)/[Other than Indians](https://www.youtube.com/watch?v=_1AwR-un4Hk)
 - [ ] Program to print hello world 10 times
 - [ ] Program to print sum of n numbers
 - [ ] Prgram to take input from user till user enters a negative number(Using While loop)
 - [ ] Prgram to take input from user till user enters a negative number(Using Do While loop)
 - [ ] Program to display multiplication table upto 10
 - [ ] Program to add only positive numbers ```i.e take input from user again and again till he/she enters the negative integer and calculate the sum of all numbers till that point```
-- [ ] 
+## Understanding the concept of jump statements [For Indians](https://www.youtube.com/watch?v=Stf7KBiA1vs&t=130s)/[Other than Indians](https://www.youtube.com/watch?v=ikGk4ZZ-uYE)
+- [ ] There is a girl called Sara and her mother allows to go out with her friends only on even days of month.Also her mother gives some Pocket money each month to her and each time she goes out she spends 500 bucks.She also cannot go outside once she is left with no pocket money. Asumming that her mother gives atleast 3000 bucks every month. Write a Program to tell sara that on which dates she can go and when she have to stop
+- [ ] Program to print all odd numbers  till n
+- [ ] Program to print all the numbers between 1 to 100 except those numbers which are divisible by 3
+- [ ] Program to check that whether given number is prime or not
+- [ ] Program to print all prime numbers between a given range ```i.e. from a+1 to b-1```
+## Understanding the concept of Switch Satements [For Indians](https://www.youtube.com/watch?v=G80-j_xnE_8&t=19s)/[Other Indians](https://www.youtube.com/watch?v=GSja2w-HN20)
+- [ ] Program to write hello in five different languages ```i.e. ask the user to enter the langauage key and the program will print hello in that particular language```
+- [ ] Program to implement basic arithmetic operations between two number
+## [Understanding the concept of Operators](https://drive.google.com/file/d/1QtBvLHK-8d-zPlKQp2pa3m_lgVnG1ecl/view)
+- [ ] What is the output of following program?
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int i=1;
+    i=i++ + ++i;
+    cout<<i<<endl;
+    return 0;
+}
+```
+- [ ] What is the output of following program?
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int i=1;
+    int j=2;
+    int k;
+    k=i + j + i++ + j++ + ++i + ++j;
+    cout<<i<<" "<<j<<" "<<k<<endl;
+    return 0;
+}
+```
+- [ ] What is the output of following program?
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int i=0;
+    i=i++ - --i + ++i - i--;
+    cout<<i<<endl;
+    return 0;
+}
+```
+- [ ] What is the output of following program?
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int i=1,j=2,k=3;
+    int m = i-- - j-- - k--;
+    cout<<i<<endl;
+    cout<<j<<endl;
+    cout<<k<<endl;
+    cout<<m<<endl;
+    return 0;
+}
+```
+- [ ] What is the output of following program?
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int i=10, j=20 ,k;
+    k = i-- - i++ + --j - ++j + --i - j-- + ++i - j++;
+    cout<<i<<endl;
+    cout<<j<<endl;
+    cout<<k<<endl;
+    return 0;
+}
+```
+- [ ] Program to take an integer as an input from the user and tell whether it is equal to, less than or more than 10
