@@ -137,3 +137,4 @@ int32_t main(){
     return 0;
 }
 ```
+- [ ] Program to take an integer as an input from the user and tell whether it is equal to, less than or more than 10
