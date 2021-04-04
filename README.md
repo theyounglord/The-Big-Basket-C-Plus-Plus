@@ -71,7 +71,7 @@ Fork the GitHub repo https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus 
 - [ ] Program to print all the numbers between 1 to 100 except those numbers which are divisible by 3
 - [ ] Program to check that whether given number is prime or not
 - [ ] Program to print all prime numbers between a given range ```i.e. from a+1 to b-1```
-## Understanding the concept of Switch Satements [For Indians](https://www.youtube.com/watch?v=G80-j_xnE_8&t=19s)/[Other Indians](https://www.youtube.com/watch?v=GSja2w-HN20)
+## Understanding the concept of Switch Satements [For Indians](https://www.youtube.com/watch?v=G80-j_xnE_8&t=19s)/[Other than Indians](https://www.youtube.com/watch?v=GSja2w-HN20)
 - [ ] Program to write hello in five different languages ```i.e. ask the user to enter the langauage key and the program will print hello in that particular language```
 - [ ] Program to implement basic arithmetic operations between two number
 ## [Understanding the concept of Operators](https://drive.google.com/file/d/1QtBvLHK-8d-zPlKQp2pa3m_lgVnG1ecl/view)
