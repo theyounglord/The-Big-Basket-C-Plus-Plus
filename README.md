@@ -40,5 +40,28 @@ Fork the GitHub repo https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus 
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-# <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9DWGymtSUGv9cri-s_QlxlZBBSF05EgmR_w&usqp=CAU" width="100px">Let's get started & Best of Luck
+# <img src="Assets/chimera-studios-odette-v2.gif" width="100px"> Let's get started & Best of Luck<img src="Assets/ce9a1890037a40e495e7d217cee03dbc.gif" width="150px">
 
+- [ ] [Introduction to Programming Language](https://drive.google.com/file/d/1nq4TGnbP7k7o_ofNZJ4UDclEwWrn_iaF/view)
+
+- [ ] [Install VScode](https://code.visualstudio.com/download)
+- [ ] [Setup VScode with c++ ](https://code.visualstudio.com/docs/languages/cpp)
+- [ ] Writing first program on c++
+- [ ] [Data types](https://www.geeksforgeeks.org/c-data-types/)
+- [ ] [Type Modifiers](https://www.tutorialspoint.com/cplusplus/cpp_modifier_types.htm)
+## Understandig the syntex of Input Output in C++ [For Indians](https://www.youtube.com/watch?v=7dPdMtBX1d8&t=7s)/[Other than Indians](https://www.youtube.com/watch?v=I16GqVWJXKE)
+- [ ] Write a program to take two numbers as input from the user and then find average of those two numbers
+## Understanding the syntex of If/Else Statement [For Indians](https://www.youtube.com/watch?v=cyB3HNlQyjY&t=1s)/[Other than Indians](https://www.youtube.com/watch?v=mlOePMa8_P4)
+- [ ] Program to find Maximum and minimum among two numbers
+- [ ] Program to find Maximum of three numbers
+- [ ] Program to find even or odd among two numbers ```Possible Case -Both Even -Both odd -One even && One odd -One odd && one even```
+- [ ] Program to check if a triangle is scalene, isosceles or equilateral
+- [ ] Program to check if an alphabet is a vowel or a consonant
+## Understanding the concept of Loops [For Indians](https://www.youtube.com/watch?v=IlIn_D1RT7M&t=2s)/[Other than indians](https://www.youtube.com/watch?v=_1AwR-un4Hk)
+- [ ] Program to print hello world 10 times
+- [ ] Program to print sum of n numbers
+- [ ] Prgram to take input from user till user enters a negative number(Using While loop)
+- [ ] Prgram to take input from user till user enters a negative number(Using Do While loop)
+- [ ] Program to display multiplication table upto 10
+- [ ] Program to add only positive numbers ```i.e take input from user again and again till he/she enters the negative integer and calculate the sum of all numbers till that point```
+- [ ] 
