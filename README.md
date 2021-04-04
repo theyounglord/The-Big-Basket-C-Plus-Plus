@@ -41,6 +41,7 @@ Fork the GitHub repo https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 # <img src="Assets/chimera-studios-odette-v2.gif" width="100px"> Let's get started & Best of Luck<img src="Assets/ce9a1890037a40e495e7d217cee03dbc.gif" width="150px">
+# <img src="Assets/star.gif" width="50px">Level-1  Getting Started <img src="Assets/star.gif" width="50px">
 
 - [ ] [Introduction to Programming Language](https://drive.google.com/file/d/1nq4TGnbP7k7o_ofNZJ4UDclEwWrn_iaF/view)
 
@@ -64,4 +65,3 @@ Fork the GitHub repo https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus 
 - [ ] Prgram to take input from user till user enters a negative number(Using Do While loop)
 - [ ] Program to display multiplication table upto 10
 - [ ] Program to add only positive numbers ```i.e take input from user again and again till he/she enters the negative integer and calculate the sum of all numbers till that point```
-- [ ] 
