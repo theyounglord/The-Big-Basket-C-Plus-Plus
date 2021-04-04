@@ -142,3 +142,6 @@ int32_t main(){
 - [ ] [Solve all questions in this pdf<img src="Assets/pdf.gif" width="50px" align="center">](https://drive.google.com/file/d/1QtBvLHK-8d-zPlKQp2pa3m_lgVnG1ecl/view)
 # <img src="Assets/star.gif" width="50px">Level-1  Getting Started - Completed<img src="Assets/star.gif" width="50px">
 # <img src="Assets/anouncement.gif" width="80px">Important anouncement before getting to the next level<img src="Assets/anouncement.gif" width="80px">
+The next phase is about building logics on you own so try as hard as possible to build or find the logics
+
+behind the Programs on your `NoteBooks`first and then code on your systems.
