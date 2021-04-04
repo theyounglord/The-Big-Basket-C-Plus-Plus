@@ -57,4 +57,11 @@ Fork the GitHub repo https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus 
 - [ ] Program to find even or odd among two numbers ```Possible Case -Both Even -Both odd -One even && One odd -One odd && one even```
 - [ ] Program to check if a triangle is scalene, isosceles or equilateral
 - [ ] Program to check if an alphabet is a vowel or a consonant
-## Understanding the concept of Loops [For Indians]
+## Understanding the concept of Loops [For Indians](https://www.youtube.com/watch?v=IlIn_D1RT7M&t=2s)/[Other than indians](https://www.youtube.com/watch?v=_1AwR-un4Hk)
+- [ ] Program to print hello world 10 times
+- [ ] Program to print sum of n numbers
+- [ ] Prgram to take input from user till user enters a negative number(Using While loop)
+- [ ] Prgram to take input from user till user enters a negative number(Using Do While loop)
+- [ ] Program to display multiplication table upto 10
+- [ ] Program to add only positive numbers ```i.e take input from user again and again till he/she enters the negative integer and calculate the sum of all numbers till that point```
+- [ ] 
