@@ -178,7 +178,7 @@ Hint:-
 You have to print some spaces between the rectangle to make it hollow rectangle.
 i.e You have to print spaces instaed of "*", similar to the above question  except in 1st row, last row, 1st column and last column.
 `
-- [ ] Print the given pattern w.r.t. variable n=5 ```i.e half Pyramid using numbers``` / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#half-pyramid-using-numbers-pattern)
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e half Pyramid using numbers```take variable n as, only input to the program / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#half-pyramid-using-numbers-pattern)
 ```cpp
 1
 2 2
@@ -186,3 +186,22 @@ i.e You have to print spaces instaed of "*", similar to the above question  exce
 4 4 4 4
 5 5 5 5 5
 ```
+`
+Hint:-
+In this Program we have to iterate all the elements of row from 1 to n.
+So that Row number = Number of Columns.
+`
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. inverted half pyramid using "*"``` take variable n as, only input to the program / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#inverted-half-pyramid-pattern)
+```cpp
+* * * * *
+* * * *
+* * *
+* * 
+*
+```
+
+`
+Hint:-
+In this Program we have to iterate all the elements of row from n to 1.
+So that Row number = Number of Columns.
+`
