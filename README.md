@@ -165,3 +165,16 @@ This Phase require an important set of time of your's, so that when we move on t
 * * * *
 * * * *
 ```
+- [ ] Program to print hollow rectangle where user provides number of rows and columns / [Solution]
+```cpp
+* * * *
+*     *
+*     *
+*     *
+* * * *
+```
+`
+Hint:-
+You have to print some spaces between the rectangle to make it hollow rectangle.
+i.e You have to print spaces instaed of "*", similar to the above question  except in 1st row, last row, 1st column and last column.
+`
