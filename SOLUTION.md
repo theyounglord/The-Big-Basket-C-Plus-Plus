@@ -13,3 +13,22 @@ int32_t main(){
     return 0;
 }
 ```
+### Hollow Rectangle Pattern
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int rows,cols;
+    cin>>rows>>cols;
+    for(int i=1;i<=rows;i++){
+        for(int j=1;j<=cols;j++){
+            if(i==1||i==rows||j==1||j==cols){
+                cout<<"* ";
+            }else{
+                cout<<"  ";
+            }
+        }cout<<endl;
+    }
+    return 0;
+}
+```
