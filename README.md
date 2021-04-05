@@ -155,3 +155,4 @@ In this phase we are going to solve some pattern problems which will help you to
 This Phase require an important set of time of your's, so that when we move on to the next levels, we'll have an idea in mind that how should we'll build the logics behind the problem.
 ```
 `Success is very uncofertable process, so make yourself comfertable with being uncomfertable.`
+`In this level we are going to solve some pattern Problems starting with easy once to the complex ones.`
