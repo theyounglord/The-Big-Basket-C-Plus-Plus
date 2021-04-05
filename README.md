@@ -165,7 +165,7 @@ This Phase require an important set of time of your's, so that when we move on t
 * * * *
 * * * *
 ```
-- [ ] Program to print hollow rectangle where user provides number of rows and columns / [Solution]
+- [ ] Program to print hollow rectangle where user provides number of rows and columns / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#hollow-rectangle-pattern)
 ```cpp
 * * * *
 *     *
