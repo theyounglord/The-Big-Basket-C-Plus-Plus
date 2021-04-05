@@ -1,4 +1,4 @@
-### Rectangle.cpp
+### Rectangle Pattern
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
