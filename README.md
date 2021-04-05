@@ -150,3 +150,8 @@ behind the Programs on your `NoteBooks`first and then code on your systems. Also
 repo in his/her own way. you guys are free to do. Thank you .
 ```
 # <img src="Assets/star.gif" width="50px"><img src="Assets/star.gif" width="50px">Level-2  LogicBuilding phase<img src="Assets/star.gif" width="50px"><img src="Assets/star.gif" width="50px">
+```
+In this phase we are going to solve some pattern problems which will help you to develop an idea that how should we build the logics behind the problem with our learned concepts.
+This Phase require an important set of time of your's, so that when we move on to the next levels, we'll have an idea in mind that how should we'll build the logics behind the problem.
+```
+`Success is very uncofertable process, so make yourself comfertable with being uncomfertable.`
