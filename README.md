@@ -206,3 +206,11 @@ Hint:-
 In this Program we have to iterate all the elements of row from n to 1.
 So that Row number = Number of Columns.
 `
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e half Pyramid using numbers "0" & "1"```take variable n as, only input to the program /[Solution]()
+```cpp
+1
+0 1
+1 0 1
+0 1 0 1
+1 0 1 0 1
+```
