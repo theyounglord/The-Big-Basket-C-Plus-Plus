@@ -205,6 +205,14 @@ Hint:-
 This Program is very similar o the Half Pyramid using numbers Pattern.
 But in this you just have to figure out that at which Position you should print "1" and vice versa for "0"
 `
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e Floyd's Triangle```take variable n as, only input to the program /[Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#floyds-triangle-pattern)
+```cpp
+1
+2  3
+4  5  6
+7  8  9  10
+11 12 13 14 15
+```
 - [ ] Print the given pattern w.r.t. variable n=5 ```i.e. inverted half pyramid using "*"``` take variable n as, only input to the program / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#inverted-half-pyramid-pattern)
 ```cpp
 * * * * *
@@ -218,4 +226,24 @@ But in this you just have to figure out that at which Position you should print 
 Hint:-
 In this Program we have to iterate all the elements of row from n to 1.
 So that Row number = Number of Columns.
+`
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. inverted half pyramid using numbers``` take variable n as, only input to the program / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#half-pyramid-using-numbers)
+```cpp
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
+1
+```
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. half pyramid using after 180 degree rotaion using "*"``` take variable n as, only input to the program / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#half-pyramid-using-after-180-degree-rotaion)
+```cpp
+        *
+      * *
+    * * *
+  * * * *
+* * * * *
+```
+`
+Hint:- In this Program you have to figure print some space first and then you have to print pattern using "*".
+Consider this Program as a rectangle pattern in which we have to print some spaces where the elements of column is less than equal to (n-i).
 `
