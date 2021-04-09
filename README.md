@@ -174,7 +174,7 @@ This Phase require an important set of time of your's, so that when we move on t
 *     *
 * * * *
 ```
-[<img src="Assets/hint.gif" width="100px">](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/HINTS.md#hollow-rectangle)
+[Need a Hint ?](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/HINTS.md#hollow-rectangle)
 - [ ] Print the given pattern w.r.t. variable n=5 ```i.e half Pyramid using numbers```take variable n as, only input to the program / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#half-pyramid-using-numbers-pattern)
 ```cpp
 1
