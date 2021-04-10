@@ -157,6 +157,7 @@ This Phase require an important set of time of your's, so that when we move on t
 `Success is very uncofertable process, so make yourself comfertable with being uncomfertable.`
 
 `In this level we are going to solve some pattern Problems starting with easy once to the complex ones.`
+
 `Solve all the below questions using nested for Loop.`
 - [ ] Program to print rectangle where user provides number of rows and columns / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#rectangle-pattern)
 ```cpp
