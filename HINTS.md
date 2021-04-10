@@ -14,3 +14,8 @@ In this Program first you have to print half pyramid after 180 degree rotaion us
 Hint:- It's very similar to palindromic Pattern but with "*". In Palindromic Pattern you have to go from 1 to nth row
 and in this you have to do same first but after that you have to make mirror image. So this time you need to go from nth row to 1st row.
 `
+### Hollow Diamond Pattern
+`
+Hint:-It's Very similar to Diamond Pattern.
+Just check the indexing of "*" and try to figure out that at what places you have to print "*" and at what places you have to print some Some Space.
+`
