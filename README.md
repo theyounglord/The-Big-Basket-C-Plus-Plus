@@ -289,7 +289,7 @@ print half Pyramid with an extra space after each element of the column to maint
   4 3 2 1 2 3 4
 5 4 3 2 1 2 3 4 5
 ```
-- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. Diamond Pattern``` take variable n as, only input to the program / [Need Hint ?](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/HINTS.md#diamond-pattern) / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#diamond-pattern)
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. Diamond Pattern using "*"``` take variable n as, only input to the program / [Need Hint ?](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/HINTS.md#diamond-pattern) / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#diamond-pattern)
 ```cpp
         * 
       * * *
@@ -328,3 +328,18 @@ print half Pyramid with an extra space after each element of the column to maint
 * * * *   * * * * 
 * * * * * * * * *
 ```
+
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. Buuter-Fly Pattern using "*"``` take variable n as, only input to the program / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#butter-fly-pattern) - `Try to Sove on your own without any hint`
+```cpp
+*        *
+**      **
+***    ***
+****  ****
+**********
+**********
+****  ****
+***    ***
+**      **
+*        *
+```
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. Hollow Buuter-Fly Pattern using "*"``` take variable n as, only input to the program / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#hollow-butter-fly-pattern) - `Try to Sove on your own without any hint`
