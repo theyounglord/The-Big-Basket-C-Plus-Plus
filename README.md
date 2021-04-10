@@ -247,3 +247,37 @@ So that Row number = Number of Columns.
 Hint:- In this Program you have to figure print some space first and then you have to print pattern using "*".
 Consider this Program as a rectangle pattern in which we have to print some spaces where the elements of column is less than equal to (n-i).
 `
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. rhombus using "*"``` take variable n as, only input to the program / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#rhombus-pattern)
+```cpp
+        * * * * *
+      * * * * *
+    * * * * *
+  * * * * * 
+* * * * *
+```
+`
+Hint:-Consider this program as a rectangle after placing some spaces.
+`
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. Hollow rhombus using "*"``` take variable n as, only input to the program / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#hollow-rhombus-pattern)
+```cpp
+        * * * * * 
+      *       *   
+    *       *     
+  *       *       
+* * * * *
+```
+`
+Hint:-Consider this problem as a hollow rectangle with some spaces first.
+`
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. Number Pattern``` take variable n as, only input to the program / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#number-pattern)
+```cpp
+    1
+   1 2
+  1 2 3
+ 1 2 3 4
+1 2 3 4 5
+```
+`
+Hint:-In this Program you have to print some spaces first as usual and then when you have to
+print half Pyramid with an extra space after each element of the column to maintain the order and design of Pattern.
+`
