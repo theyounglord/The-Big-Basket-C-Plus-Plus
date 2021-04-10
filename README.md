@@ -281,3 +281,50 @@ Hint:-Consider this problem as a hollow rectangle with some spaces first.
 Hint:-In this Program you have to print some spaces first as usual and then when you have to
 print half Pyramid with an extra space after each element of the column to maintain the order and design of Pattern.
 `
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. Palindromic Pattern``` take variable n as, only input to the program / [Need Hint?](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/HINTS.md#palindromic-pattern) / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#palindromic-pattern)
+```cpp
+        1
+      2 1 2
+    3 2 1 2 3
+  4 3 2 1 2 3 4
+5 4 3 2 1 2 3 4 5
+```
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. Diamond Pattern``` take variable n as, only input to the program / [Need Hint ?](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/HINTS.md#diamond-pattern) / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#diamond-pattern)
+```cpp
+        * 
+      * * *
+    * * * * *
+  * * * * * * *
+* * * * * * * * * 
+* * * * * * * * *
+  * * * * * * *
+    * * * * *
+      * * *
+        *
+```
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. Hollow Diamond Pattern``` take variable n as, only input to the program / [Need Hint ?](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/HINTS.md#hollow-diamond-pattern) / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#hollow-diamond-pattern)
+```cpp
+        * 
+      *   *
+    *       *
+  *           *
+*               * 
+*               *
+  *           *
+    *       *
+      *   *
+        *
+```
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. Hollow Diamond inscribed in rectangle Pattern``` take variable n as, only input to the program / [Need Hint ?](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/HINTS.md#hollow-diamond-inscribed-in-rectangle-pattern) / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#hollow-diamond-pattern-inscribed-in-rectangle)
+```cpp
+* * * * * * * * * 
+* * * *   * * * * 
+* * *       * * * 
+* *           * * 
+*               * 
+*               * 
+* *           * * 
+* * *       * * * 
+* * * *   * * * * 
+* * * * * * * * *
+```
