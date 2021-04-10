@@ -19,3 +19,10 @@ and in this you have to do same first but after that you have to make mirror ima
 Hint:-It's Very similar to Diamond Pattern.
 Just check the indexing of "*" and try to figure out that at what places you have to print "*" and at what places you have to print some Some Space.
 `
+### Hollow Diamond inscribed in rectangle Pattern
+`
+Hint:-You know that you have to print some spaces from 1st row to (n-i)th row before starting to print the hollow diamond pattern.
+But here instaed of spaces you have to print some "*". And after completing the upper part of hollow diamond pattern, you have to again print some "*" , exact oppossite to 
+spaces you used to print in start.
+`
+```This hint could be confusing so if any wants to simlify this hint you can.```
