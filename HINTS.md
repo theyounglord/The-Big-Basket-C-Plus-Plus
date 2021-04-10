@@ -25,4 +25,5 @@ Hint:-You know that you have to print some spaces from 1st row to (n-i)th row be
 But here instaed of spaces you have to print some "*". And after completing the upper part of hollow diamond pattern, you have to again print some "*" , exact oppossite to 
 spaces you used to print in start.
 `
+
 ```This hint could be confusing so if any wants to simlify this hint you can.```
