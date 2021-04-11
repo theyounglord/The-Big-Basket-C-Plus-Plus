@@ -32,9 +32,6 @@ int32_t main(){
         count++;
     }
     original_num=n; // Origianl number is reassigned to n
-    {
-        /* code */
-    }
     
     int sum=0;
     while(n>0){
