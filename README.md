@@ -370,3 +370,5 @@ In nexxt phase we are going to learn and undersand some important concepts of pr
 Well if you are getting bored click on Mew and do your coding with some beats.,
 
 [<p align="center"><img src="Assets/mew.gif" width="100px"></p>](https://www.youtube.com/watch?v=BnSjnz_mSxk)
+
+[<p align="right"><img src="Assets/moveup.gif" width="100px"></p>](https://www.youtube.com/watch?v=BnSjnz_mSxk)
