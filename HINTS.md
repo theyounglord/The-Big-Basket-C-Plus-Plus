@@ -1,3 +1,7 @@
+### Factorial of Number
+`
+Hint:-Factorial is defined as the product of all positive integers less than or equal to n
+`
 ### Hollow Rectangle
 `
 Hint:-
