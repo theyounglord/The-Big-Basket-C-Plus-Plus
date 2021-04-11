@@ -157,6 +157,7 @@ This Phase require an important set of time of your's, so that when we move on t
 `Success is very uncofertable process, so make yourself comfertable with being uncomfertable.`
 
 `In this level we are going to solve some pattern Problems starting with easy once to the complex ones.`
+
 `Solve all the below questions using nested for Loop.`
 - [ ] Program to print rectangle where user provides number of rows and columns / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#rectangle-pattern)
 ```cpp
@@ -192,6 +193,27 @@ Hint:-
 In this Program we have to iterate all the elements of row from 1 to n.
 So that Row number = Number of Columns.
 `
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e Half Pyramid using numbers "0" & "1"```take variable n as, only input to the program /[Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#half-pyramid-using-numbers-0--1-pattern)
+```cpp
+1
+0 1
+1 0 1
+0 1 0 1
+1 0 1 0 1
+```
+`
+Hint:-
+This Program is very similar o the Half Pyramid using numbers Pattern.
+But in this you just have to figure out that at which Position you should print "1" and vice versa for "0"
+`
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e Floyd's Triangle```take variable n as, only input to the program /[Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#floyds-triangle-pattern)
+```cpp
+1
+2  3
+4  5  6
+7  8  9  10
+11 12 13 14 15
+```
 - [ ] Print the given pattern w.r.t. variable n=5 ```i.e. inverted half pyramid using "*"``` take variable n as, only input to the program / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#inverted-half-pyramid-pattern)
 ```cpp
 * * * * *
@@ -206,3 +228,141 @@ Hint:-
 In this Program we have to iterate all the elements of row from n to 1.
 So that Row number = Number of Columns.
 `
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. inverted half pyramid using numbers``` take variable n as, only input to the program / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#half-pyramid-using-numbers)
+```cpp
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
+1
+```
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. half pyramid using after 180 degree rotaion using "*"``` take variable n as, only input to the program / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#half-pyramid-using-after-180-degree-rotaion)
+```cpp
+        *
+      * *
+    * * *
+  * * * *
+* * * * *
+```
+`
+Hint:- In this Program you have to figure print some space first and then you have to print pattern using "*".
+Consider this Program as a rectangle pattern in which we have to print some spaces where the elements of column is less than equal to (n-i).
+`
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. rhombus using "*"``` take variable n as, only input to the program / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#rhombus-pattern)
+```cpp
+        * * * * *
+      * * * * *
+    * * * * *
+  * * * * * 
+* * * * *
+```
+`
+Hint:-Consider this program as a rectangle after placing some spaces.
+`
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. Hollow rhombus using "*"``` take variable n as, only input to the program / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#hollow-rhombus-pattern)
+```cpp
+        * * * * * 
+      *       *   
+    *       *     
+  *       *       
+* * * * *
+```
+`
+Hint:-Consider this problem as a hollow rectangle with some spaces first.
+`
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. Number Pattern``` take variable n as, only input to the program / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#number-pattern)
+```cpp
+    1
+   1 2
+  1 2 3
+ 1 2 3 4
+1 2 3 4 5
+```
+`
+Hint:-In this Program you have to print some spaces first as usual and then when you have to
+print half Pyramid with an extra space after each element of the column to maintain the order and design of Pattern.
+`
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. Palindromic Pattern``` take variable n as, only input to the program / [Need Hint?](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/HINTS.md#palindromic-pattern) / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#palindromic-pattern)
+```cpp
+        1
+      2 1 2
+    3 2 1 2 3
+  4 3 2 1 2 3 4
+5 4 3 2 1 2 3 4 5
+```
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. Diamond Pattern using "*"``` take variable n as, only input to the program / [Need Hint ?](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/HINTS.md#diamond-pattern) / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#diamond-pattern)
+```cpp
+        * 
+      * * *
+    * * * * *
+  * * * * * * *
+* * * * * * * * * 
+* * * * * * * * *
+  * * * * * * *
+    * * * * *
+      * * *
+        *
+```
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. Hollow Diamond Pattern``` take variable n as, only input to the program / [Need Hint ?](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/HINTS.md#hollow-diamond-pattern) / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#hollow-diamond-pattern)
+```cpp
+        * 
+      *   *
+    *       *
+  *           *
+*               * 
+*               *
+  *           *
+    *       *
+      *   *
+        *
+```
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. Hollow Diamond inscribed in rectangle Pattern``` take variable n as, only input to the program / [Need Hint ?](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/HINTS.md#hollow-diamond-inscribed-in-rectangle-pattern) / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#hollow-diamond-pattern-inscribed-in-rectangle)
+```cpp
+* * * * * * * * * 
+* * * *   * * * * 
+* * *       * * * 
+* *           * * 
+*               * 
+*               * 
+* *           * * 
+* * *       * * * 
+* * * *   * * * * 
+* * * * * * * * *
+```
+
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. Buuter-Fly Pattern using "*"``` take variable n as, only input to the program / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#butter-fly-pattern) - `Try to Sove on your own without any hint`
+```cpp
+*        *
+**      **
+***    ***
+****  ****
+**********
+**********
+****  ****
+***    ***
+**      **
+*        *
+```
+- [ ] Print the given pattern w.r.t. variable n=5 ```i.e. Hollow Buuter-Fly Pattern using "*"``` take variable n as, only input to the program / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#hollow-butter-fly-pattern) - `Try to Sove on your own without any hint`
+```cpp
+*        *
+**      **
+* *    * *
+*  *  *  *
+*   **   *
+*   **   *
+*  *  *  *
+* *    * *
+**      **
+*        *
+```
+- [ ] Print the given pattern w.r.t. variable n=9 ```i.e. Zig Zag Pattern using "*"``` take variable n as, only input to the program / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#zig-zag-pattern) - `Try to Solve on your own without any hint`
+```cpp
+     *       *
+   *   *   *   *
+ *       *       *
+```
+# <img src="Assets/star.gif" width="50px"><img src="Assets/star.gif" width="50px">Level-2  LogicBuilding phase Completed<img src="Assets/star.gif" width="50px"><img src="Assets/star.gif" width="50px">
+Well Congratulation now you have learned the basic concepts of Programming. And Now we are good to move to another level. Well if you ask me you are doing great and you just need to be consistent and have faith in you  that in a short time you'll gain the proper understanding of each and every concept.
+
+In nexxt phase we are going to learn and undersand some important concepts of programming. 

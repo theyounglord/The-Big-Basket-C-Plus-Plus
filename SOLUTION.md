@@ -1,3 +1,361 @@
+### Zig Zag Pattern
+```cpp
+#include<bits/stdc++.h>
+ using namespace std;
+ int32_t main(){
+     int n=9;
+     for(int i=1;i<=3;i++){
+         for(int j=1;j<=n;j++){
+             if((i+j)%4==0||i==2&&(i+j)%2==0){
+                 cout<<"* ";
+             }else{
+                 cout<<"  ";
+             }
+         }cout<<endl;
+     }return 0;
+ }
+```
+### Hollow Butter-Fly Pattern
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int n=5;
+    for(int i=1;i<=n;i++){
+        for(int j=1;j<=i;j++){
+            if(j==1||j==i){
+                cout<<"*";
+            }else{
+                cout<<" ";
+            }
+        }
+        for(int j=1;j<=2*n-2*i;j++){
+            cout<<" ";
+        }
+        for(int j=1;j<=i;j++){
+            if(j==1||j==i){
+                cout<<"*";
+            }else{
+                cout<<" ";
+            }
+        }
+        cout<<endl;
+    }
+    for(int i=n;i>=1;i--){
+        for(int j=1;j<=i;j++){
+            if(j==1||j==i){
+                cout<<"*";
+            }else{
+                cout<<" ";
+            }
+        }
+        for(int j=1;j<=2*n-2*i;j++){
+            cout<<" ";
+        }
+        for(int j=1;j<=i;j++){
+            if(j==1||j==i){
+                cout<<"*";
+            }else{
+                cout<<" ";
+            }
+        }
+        cout<<endl;
+    }
+    return 0;
+}
+```
+### Butter-Fly Pattern
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int n=5;
+    for(int i=1;i<=n;i++){
+        for(int j=1;j<=i;j++){
+            cout<<"*";
+        }
+        for(int j=1;j<=2*n-2*i;j++){
+            cout<<" ";
+        }
+        for(int j=1;j<=i;j++){
+            cout<<"*";
+        }
+        cout<<endl;
+    }
+    for(int i=n;i>=1;i--){
+        for(int j=1;j<=i;j++){
+            cout<<"*";
+        }
+        for(int j=1;j<=2*n-2*i;j++){
+            cout<<" ";
+        }
+        for(int j=1;j<=i;j++){
+            cout<<"*";
+        }
+        cout<<endl;
+    }
+    return 0;
+}
+```
+### Hollow Diamond Pattern inscribed in rectangle
+```cpp
+#include<bits/stdc++.h>
+ using namespace std;
+ int32_t main(){
+     int n=5;
+     for(int i=1;i<=n;i++){
+         for(int j=1;j<=n-i;j++){
+             cout<<"* ";
+         }
+         for(int j=1;j<=i;j++){
+             if(j==1){
+                 cout<<"* ";
+             }else{
+                 cout<<"  ";
+             }
+         }
+         for(int j=2;j<=i;j++){
+             if(j==i){
+                 cout<<"* ";
+             }else{
+                 cout<<"  ";
+             }
+         }
+         for(int j=n-i;j>=1;j--){
+             cout<<"* ";
+         }
+         cout<<endl;
+     }
+     for(int i=n;i>=1;i--){
+         for(int j=1;j<=n-i;j++){
+             cout<<"* ";
+         }
+         for(int j=1;j<=i;j++){
+             if(j==1){
+                 cout<<"* ";
+             }else{
+                 cout<<"  ";
+             }
+         }
+         for(int j=2;j<=i;j++){
+             if(j==i){
+                 cout<<"* ";
+             }else{
+                 cout<<"  ";
+             }
+         }
+         for(int j=n-i;j>=1;j--){
+             cout<<"* ";
+         }
+         cout<<endl;
+     }
+     return 0;
+ }
+```
+### Hollow Diamond Pattern
+```cpp
+#include<bits/stdc++.h>
+ using namespace std;
+ int32_t main(){
+     int n=5;
+     for(int i=1;i<=n;i++){
+         for(int j=1;j<=n-i;j++){
+             cout<<"  ";
+         }
+         for(int j=1;j<=i;j++){
+             if(j==1){
+                 cout<<"* ";`
+             }else{
+                 cout<<"  ";
+             }
+         }
+         for(int j=2;j<=i;j++){
+             if(j==i){
+                 cout<<"* ";
+             }else{
+                 cout<<"  ";
+             }
+         }
+         cout<<endl;
+     }
+     for(int i=n;i>=1;i--){
+         for(int j=1;j<=n-i;j++){
+             cout<<"  ";
+         }
+         for(int j=1;j<=i;j++){
+             if(j==1){
+                 cout<<"* ";
+             }else{
+                 cout<<"  ";
+             }
+         }
+         for(int j=2;j<=i;j++){
+             if(j==i){
+                 cout<<"* ";
+             }else{
+                 cout<<"  ";
+             }
+         }
+         cout<<endl;
+     }
+     return 0;
+ }
+```
+### Diamond Pattern
+```cpp
+#include<bits/stdc++.h>
+ using namespace std;
+ int32_t main(){
+     int n=5;
+     for(int i=1;i<=n;i++){
+         for(int j=1;j<=n-i;j++){
+             cout<<"  ";
+         }
+         for(int j=1;j<=i;j++){
+             cout<<"* ";
+         }
+         for(int j=2;j<=i;j++){
+             cout<<"* ";
+         }
+         cout<<endl;
+     }
+     for(int i=n;i>=1;i--){
+         for(int j=1;j<=n-i;j++){
+             cout<<"  ";
+         }
+         for(int j=1;j<=i;j++){
+             cout<<"* ";
+         }
+         for(int j=2;j<=i;j++){
+             cout<<"* ";
+         }
+         cout<<endl;
+     }
+     return 0;
+ }
+```
+### Palindromic Pattern
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int n=5;
+    for(int i=1;i<=n;i++){
+        for(int j=1;j<=n-i;j++){
+            cout<<"  ";
+        }
+        for(int j=i;j>=1;j--){
+            cout<<j<<" ";
+        }
+        for(int j=2;j<=i;j++){
+            cout<<j<<" ";
+        }   
+        cout<<endl;
+    }return 0;
+}
+```
+### Number Pattern
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int n=5;
+    for(int i=1;i<=n;i++){
+        for(int j=1;j<=n-i;j++){
+            cout<<" ";
+        }
+        for(int j=1;j<=i;j++){
+            cout<<j<<" ";
+        }
+        cout<<endl;
+    }return 0;
+}
+```
+### Hollow Rhombus Pattern
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int n=5;
+    for(int i=1;i<=n;i++){
+        for(int j=1;j<=n-i;j++){
+            cout<<"  ";
+        }
+        for(int j=1;j<=n;j++){
+            if(i==1||j==1||i==n||j==n){
+                cout<<"* ";
+            }else{
+                cout<<"  ";
+            }
+        }
+        cout<<endl;
+    }return 0;
+}
+```
+### Rhombus Pattern
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int n=5;
+    for(int i=1;i<=n;i++){
+        for(int j=1;j<=n-i;j++){
+            cout<<"  ";
+        }
+        for(int j=1;j<=i;j++){
+            cout<<"* ";
+        }
+        for(int j=n-i;j>=1;j--){
+            cout<<"* ";
+        }
+        cout<<endl;
+    }return 0;
+}
+```
+### Floyd's Triangle Pattern
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int n=5;
+    int count=1;
+    for(int i=1;i<=n;i++){
+        for(int j=1;j<=i;j++){
+            cout<<count<<" ";
+            count++;
+        }cout<<endl;
+    }return 0;
+}
+```
+### Half pyramid using after 180 degree rotaion
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int n=5;
+    for(int i=1;i<=n;i++){
+        for(int j=1;j<=n-i;j++){
+            cout<<"  ";
+        }
+        for(int j=1;j<=i;j++){
+            cout<<"* ";
+        }cout<<endl;
+    }return 0;
+}
+```
+### Half Pyramid Using Numbers
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int n=5;
+    for(int i=n;i>=1;i--){
+        for(int j=1;j<=i;j++){
+            cout<<j<<" ";
+        }cout<<endl;
+    }return 0;
+}
+```
 ### Rectangle Pattern
 ```cpp
 #include<bits/stdc++.h>
@@ -54,6 +412,23 @@ int32_t main(){
     for(int i=n;i>=1;i--){
         for(int j=1;j<=i;j++){
             cout<<"* ";
+        }cout<<endl;
+    }return 0;
+}
+```
+### Half Pyramid using numbers "0" & "1" Pattern
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int n=5;
+    for(int i=1;i<=n;i++){
+        for(int j=1;j<=i;j++){
+            if((i+j)%2==0){
+                cout<<1<<" ";
+            }else{
+                cout<<0<<" ";
+            }
         }cout<<endl;
     }return 0;
 }
