@@ -366,3 +366,7 @@ print half Pyramid with an extra space after each element of the column to maint
 Well Congratulation now you have learned the basic concepts of Programming. And Now we are good to move to another level. Well if you ask me you are doing great and you just need to be consistent and have faith in you  that in a short time you'll gain the proper understanding of each and every concept.
 
 In nexxt phase we are going to learn and undersand some important concepts of programming. 
+
+Well if you are getting bored click on Mew and do your coding with some beats.,
+
+[<p align="center"><img src="Assets/mew.gif" width="100px"></p>](https://www.youtube.com/watch?v=BnSjnz_mSxk)
