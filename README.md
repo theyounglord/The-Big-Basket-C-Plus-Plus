@@ -376,5 +376,7 @@ Well if you are getting bored click on Mew and do your coding with some beats.,
 - [ ] Write a Program to check that given a given number is Prime or not
 - [ ] Write a Program to reverse a number / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#revese-a-number)
 - [ ] Write a Program to check that whether the number is armstrong or not / [Need hint?](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/HINTS.md#armstrong-or-not) / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#armstrong-or-not)
+- [ ] Write a Program to convert a binary number to decimal number / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#binary-to-decimal)
+- [ ] 
 
 [<p align="right"><img src="Assets/moveup.gif" width="50px"></p>](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus#the-big-basket-c)
