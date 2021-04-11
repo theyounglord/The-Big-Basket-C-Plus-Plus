@@ -1,4 +1,23 @@
-
+### Binary to Decimal
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int n;
+    cout<<"Enter Only Binary number to convert it into Decimal"<<endl;
+    cin>>n;
+    int count=0;
+    int sum=0;
+    while(n>0){
+        int lastdigit=n%10;
+        sum+=pow(2,count)*lastdigit;
+        n=n/10;
+        count++;
+    }
+    cout<<sum<<endl;
+    return 0;
+}
+```
 ### Revese a number
 ```cpp
 #include<bits/stdc++.h>
