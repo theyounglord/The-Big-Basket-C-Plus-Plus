@@ -356,4 +356,9 @@ print half Pyramid with an extra space after each element of the column to maint
 **      **
 *        *
 ```
-
+- [ ] Print the given pattern w.r.t. variable n=9 ```i.e. Zig Zag Pattern using "*"``` take variable n as, only input to the program / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#zig-zag-pattern) - `Try to Solve on your own without any hint`
+```cpp
+     *       *
+   *   *   *   *
+ *       *       *
+```
