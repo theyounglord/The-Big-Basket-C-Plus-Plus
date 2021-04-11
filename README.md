@@ -372,5 +372,9 @@ Well if you are getting bored click on Mew and do your coding with some beats.,
 [<p align="center"><img src="Assets/mew.gif" width="120px"></p>](https://www.youtube.com/watch?v=BnSjnz_mSxk)
 
 # <img src="Assets/star.gif" width="50px"><img src="Assets/star.gif" width="50px"><img src="Assets/star.gif" width="50px">Level-3  New Era<img src="Assets/star.gif" width="50px"><img src="Assets/star.gif" width="50px"><img src="Assets/star.gif" width="50px">
+## [Understanding the concept of Binary Number System](https://www.youtube.com/watch?v=QIyugGzih4k)
+- [ ] Write a Program to check that given a given number is Prime or not
+- [ ] Write a Program to reverse a number / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#revese-a-number)
+- [ ] Write a Program to check that whether the number is armstrong or not / [Need hint?](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/HINTS.md#armstrong-or-not) / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#armstrong-or-not)
 
 [<p align="right"><img src="Assets/moveup.gif" width="50px"></p>](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus#the-big-basket-c)
