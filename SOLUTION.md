@@ -1,3 +1,44 @@
+
+### Revese a number
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int n;
+    cin>>n;
+    int reverse=0;
+    while (n>0)
+    {
+        int lastdigit=n%10;
+        reverse=reverse*10 + lastdigit;
+        n=n/10;
+    }
+    cout<<reverse<<endl;
+    return 0;
+}
+```
+### Armstrong or not
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int n;
+    cin>>n;
+    int origianl_num=n;
+    int sum=0;
+    while(n>0){
+        int lastdigit=n%10;
+        sum+=(pow(lastdigit,3));
+        n=n/10;
+    }
+    if(sum==origianl_num){
+        cout<<"Armstrong";
+    }else{
+        cout<<"Not an armstrong";
+    }
+    return 0;
+}
+```
 ### Zig Zag Pattern
 ```cpp
 #include<bits/stdc++.h>
