@@ -24,14 +24,25 @@ using namespace std;
 int32_t main(){
     int n;
     cin>>n;
-    int origianl_num=n;
+    int original_num=n;
+    // code to check the length of number
+    int count=0;
+    while (original_num>0){
+        original_num=original_num/10;
+        count++;
+    }
+    original_num=n; // Origianl number is reassigned to n
+    {
+        /* code */
+    }
+    
     int sum=0;
     while(n>0){
         int lastdigit=n%10;
-        sum+=(pow(lastdigit,3));
+        sum+=(pow(lastdigit,count));
         n=n/10;
     }
-    if(sum==origianl_num){
+    if(sum==original_num){
         cout<<"Armstrong";
     }else{
         cout<<"Not an armstrong";
