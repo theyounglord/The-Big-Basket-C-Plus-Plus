@@ -27,3 +27,8 @@ spaces you used to print in start.
 `
 
 ```This hint could be confusing so if any wants to simlify this hint you can.```
+
+### Armstrong or not
+`
+Hint:- A number is an Armstrong Number or narcissistic number if it is equal to the sum of its own digits raised to the power of the number of digits.
+`
