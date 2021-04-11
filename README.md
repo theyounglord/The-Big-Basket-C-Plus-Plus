@@ -380,4 +380,4 @@ Well if you are getting bored click on Mew and do your coding with some beats.,
 - [ ] Write a Program to convert a binary number to decimal number / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#binary-to-decimal)
 - [ ] Write a Program to calculate the factorial of a number / [Need Hint](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/HINTS.md#factorial-of-number) / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#factorial)
 
-#[<p align="right"><img src="Assets/moveup.gif" width="50px"></p>](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus#the-big-basket-c)
+# [<p align="right"><img src="Assets/moveup.gif" width="50px"></p>](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus#the-big-basket-c)
