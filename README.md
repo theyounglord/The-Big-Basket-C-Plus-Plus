@@ -363,3 +363,6 @@ print half Pyramid with an extra space after each element of the column to maint
  *       *       *
 ```
 # <img src="Assets/star.gif" width="50px"><img src="Assets/star.gif" width="50px">Level-2  LogicBuilding phase Completed<img src="Assets/star.gif" width="50px"><img src="Assets/star.gif" width="50px">
+Well Congratulation now you have learned the basic concepts of Programming. And Now we are good to move to another level. Well if you ask me you are doing great and you just need to be consistent and have faith in you  that in a short time you'll gain the proper understanding of each and every concept.
+
+In nexxt phase we are going to learn and undersand some important concepts of programming. 
