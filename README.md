@@ -362,3 +362,4 @@ print half Pyramid with an extra space after each element of the column to maint
    *   *   *   *
  *       *       *
 ```
+# <img src="Assets/star.gif" width="50px"><img src="Assets/star.gif" width="50px">Level-2  LogicBuilding phase Completed<img src="Assets/star.gif" width="50px"><img src="Assets/star.gif" width="50px">
