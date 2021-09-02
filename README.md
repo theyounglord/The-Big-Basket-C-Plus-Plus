@@ -370,7 +370,7 @@ In nexxt phase we are going to learn and undersand some important concepts of pr
 
 Well if you are getting bored click on Mew and do your coding with some beats.,
 
-<iframe src="https://open.spotify.com/embed/playlist/2NJkWaUGumPPGt8YJG0jY3" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+[<p align="center"><img src="Assets/mew.gif" width="120px"></p>](https://www.youtube.com/watch?v=BnSjnz_mSxk)
 
 # <img src="Assets/star.gif" width="50px"><img src="Assets/star.gif" width="50px"><img src="Assets/star.gif" width="50px">Level-3  New Era<img src="Assets/star.gif" width="50px"><img src="Assets/star.gif" width="50px"><img src="Assets/star.gif" width="50px">
 ## [Understanding the concept of Binary Number System](https://www.youtube.com/watch?v=QIyugGzih4k)
