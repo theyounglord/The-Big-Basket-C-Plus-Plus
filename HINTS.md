@@ -36,3 +36,7 @@ spaces you used to print in start.
 `
 Hint:- A number is an Armstrong Number or narcissistic number if it is equal to the sum of its own digits raised to the power of the number of digits.
 `
+### Butterfly Pattern
+`
+Hint:- In starting you have to print from 1st row to nth row i.e. 1 to n and then for every column you have to print some star i.e. from j=1 to that particular row number i.e j=i; and then undertand that you have to print some spaces that is equal to j=1 to j=2*n-i and then again print some stars from j=1 to j=i;
+`
