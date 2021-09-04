@@ -382,10 +382,11 @@ Well if you are getting bored click on Mew and do your coding with some beats.,
 
 ## Understanding the concepts of Functions [For Indians](https://www.youtube.com/watch?v=83KtncYgHYQ&t=5s)/ [Other than indians](https://www.youtube.com/watch?v=BGmDRQzY4CA&t=3s)
 
-- [ ] Write a program to add 2 numbers using functions / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#program-to-add-2-numbers-using-functions)
-- [ ] Write a program to print a given number using functions / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#program-to-print-a-given-number-using-functions)
-- [ ] Write a program to print the factorial of two numbers using functioms / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#program-to-print-the-factorial-of-two-numbers-using-functioms)
-- [ ] Write a program to check whether the number is prime or not using functions / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#check-prime-or-not-using-function)
+- [ ] Program to add 2 numbers using functions / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#program-to-add-2-numbers-using-functions)
+- [ ] Program to print a given number using functions / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#program-to-print-a-given-number-using-functions)
+- [ ] Program to print the factorial of two numbers using functioms / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#program-to-print-the-factorial-of-two-numbers-using-functioms)
+- [ ] Program to check whether the number is prime or not using functions / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#check-prime-or-not-using-function)
 - [ ] Write a program to print all prime numbers between two numbers using functions / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#print-prime-betwwen-a-range-of-number)
+- [ ] Program to find a fibonnaci sequence till n started from 0 and 1 / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#program-to-find-a-fibonaci-sequence-till-n)
 
 # [<p align="right"><img src="Assets/moveup.gif" width="50px"></p>](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus#the-big-basket-c)
