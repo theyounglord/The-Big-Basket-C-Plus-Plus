@@ -380,4 +380,10 @@ Well if you are getting bored click on Mew and do your coding with some beats.,
 - [ ] Write a Program to convert a binary number to decimal number / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#binary-to-decimal)
 - [ ] Write a Program to calculate the factorial of a number / [Need Hint](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/HINTS.md#factorial-of-number) / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#factorial)
 
+## Understanding the concepts of Functions [For Indians](https://www.youtube.com/watch?v=83KtncYgHYQ&t=5s)/ [Other than indians](https://www.youtube.com/watch?v=BGmDRQzY4CA&t=3s)
+
+- [ ] Write a function to add 2 numbers using functions
+- [ ] Write a function to print a given number using functions
+- [ ] Write a function to print the factorial of two numbers  
+
 # [<p align="right"><img src="Assets/moveup.gif" width="50px"></p>](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus#the-big-basket-c)
