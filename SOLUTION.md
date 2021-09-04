@@ -1,3 +1,54 @@
+### Check prime or not using function
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+bool isPrime(int num){
+    for(int i=2;i<=sqrt(num);i++){
+        if(num%i==0){
+            return false;
+        }
+    }
+    return true;
+}
+int32_t main() {
+    int n;
+    cout<<"enter your number"<<endl;
+    cin>>n;
+    if(isPrime(n)){
+        cout<<"Prime";
+    }else{
+        cout<<"Non Prime";
+    }
+}
+```
+### Print Prime betwwen a range of number
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+bool isPrime(int num){
+    for(int i=2;i<=sqrt(num);i++){
+        if(num%i==0){
+            return false;
+        }
+    }
+    return true;
+}
+
+int32_t main() {
+    int a,b;
+    cin>>a>>b;
+    for(int i=a;i<=b;i++){
+        if(isPrime(i)){
+            cout<<i<<endl;
+        }else{
+            continue;
+        }
+    }
+    return 0;
+}
+```
 ### program to add 2 numbers using functions
 ```cpp
 #include<bits/stdc++.h>
