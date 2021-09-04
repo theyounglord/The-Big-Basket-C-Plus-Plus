@@ -1,3 +1,57 @@
+### program to add 2 numbers using functions
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+int add(int n1,int n2){
+    int sum=n1+n2;
+    return sum;
+}
+
+int32_t main(){
+    int a,b;
+    cin>>a>>b;
+    cout<<add(a,b)<<endl;
+    return 0;
+}
+```
+### program to print a given number using functions
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+void display(int num){
+    cout<<"Your num="<<num<<endl;
+    return ;
+}
+int32_t main(){
+    int a;
+    cin>>a;
+    display(a);
+    return 0;
+}
+```
+### program to print the factorial of two numbers using functioms
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+int factorial(int num){
+    int fact=1;
+    for(int i=num;i>=1;i--){
+        fact=fact*i;
+    }
+    return fact;
+}
+
+int32_t main(){
+    int n1,n2;
+    cin>>n;
+    cout<<"Factorial of "<<n1<<"="<<factorial(n1);
+    cout<<"Factorial of "<<n2<<"="<<factorial(n2);
+    return 0;
+}
+```
 ### Factorial
 ```cpp
 #include<bits/stdc++.h>
