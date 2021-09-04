@@ -388,5 +388,7 @@ Well if you are getting bored click on Mew and do your coding with some beats.,
 - [ ] Program to check whether the number is prime or not using functions / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#check-prime-or-not-using-function)
 - [ ] Write a program to print all prime numbers between two numbers using functions / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#print-prime-betwwen-a-range-of-number)
 - [ ] Program to find a fibonnaci sequence till n started from 0 and 1 / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#program-to-find-a-fibonaci-sequence-till-n)
+- [ ] Program to find the factorial of the number using functions / [Solution]()
+- [ ] Program to calculate nCr i.e Binary coefficient using functions / [Solution]() 
 
 # [<p align="right"><img src="Assets/moveup.gif" width="50px"></p>](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus#the-big-basket-c)
