@@ -1,3 +1,28 @@
+### Program to find a fibonaci sequence till n
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+void fib(int num){
+    int n1=0;
+    int n2=1;
+    int next_num;
+    for(int i=1;i<=num;i++){
+        cout<<n1<<endl;
+        next_num=n1+n2;
+        n1=n2;
+        n2=next_num;
+    }
+    return;
+}
+
+int32_t main(){
+    int n;
+    cin>>n;
+    fib(n);
+    return 0;
+}
+```
 ### Check prime or not using function
 ```cpp
 #include <bits/stdc++.h>
