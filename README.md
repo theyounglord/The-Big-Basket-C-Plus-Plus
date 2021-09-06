@@ -389,6 +389,14 @@ Well if you are getting bored click on Mew and do your coding with some beats.,
 - [ ] Write a program to print all prime numbers between two numbers using functions / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#print-prime-betwwen-a-range-of-number)
 - [ ] Program to find a fibonnaci sequence till n started from 0 and 1 / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#program-to-find-a-fibonaci-sequence-till-n)
 - [ ] Program to find the factorial of the number using functions / [Solution]()
-- [ ] Program to calculate nCr i.e Binary coefficient using functions / [Solution]() 
+- [ ] Program to calculate nCr i.e Binary coefficient using functions /[Need Hint](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/HINTS.md#binary-coefficient) / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#program-to-calculate-ncr-ie-binary-coefficient-using-functions) 
+- [ ] Program to print Pascal Triangle / [Hint](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/HINTS.md#pascal-triangle) / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#program-to-print-pascal-triangle)
+```cpp
+1 
+1 1 
+1 2 1 
+1 3 3 1 
+1 4 6 4 1
+```
 
 # [<p align="right"><img src="Assets/moveup.gif" width="50px"></p>](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus#the-big-basket-c)
