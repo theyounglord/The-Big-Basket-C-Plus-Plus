@@ -1,3 +1,8 @@
+### Binary Coefficient
+`
+Hint:-A binomial coefficient C(n, r) also gives the number of ways, disregarding order, that r objects can be chosen from among n objects more formally, the number of r-element subsets (or r-combinations) of a n-element set.
+nCr=n!/((n-r)!*r!)
+`
 ### Factorial of Number
 `
 Hint:-Factorial is defined as the product of all positive integers less than or equal to n
