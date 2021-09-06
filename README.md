@@ -398,5 +398,10 @@ Well if you are getting bored click on Mew and do your coding with some beats.,
 1 3 3 1 
 1 4 6 4 1
 ```
+- [ ] Write a program to find out whether a given number is even or odd using functions
+- [ ] Write a program to find out whether a given character is an alphabet or not using functions
+- [ ] Write a program with two functions to print the maximum and the minimum number respectively among three numbers entered by user
+- [ ] Write a program with a function to swap the values of 2 given integer variables
+- [ ] Write a program using functions to check if a person is eligible for voting or not by comparing his age with legal voting age i.e. 18
 
 # [<p align="right"><img src="Assets/moveup.gif" width="50px"></p>](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus#the-big-basket-c)
