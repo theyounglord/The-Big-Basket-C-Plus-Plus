@@ -1,3 +1,24 @@
+### Program to calculate nCr i.e Binary coefficient using functions
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+int fact(int num){
+    int factorial=1;
+    for(int i=1;i<=num;i++){
+        factorial=factorial*i;
+    }
+    return factorial;
+}
+
+int32_t main(){
+    int n;
+    cin>>n;
+    int answer = fact(n);
+    cout<<answer<<endl;
+    return 0;
+}
+```
 ### Program to find a fibonaci sequence till n
 ```cpp
 #include <bits/stdc++.h>
