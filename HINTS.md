@@ -1,3 +1,7 @@
+### Pascal Triangle
+`
+Hint:-For every element you have to find its binary coefficient and then print it
+`
 ### Binary Coefficient
 `
 Hint:-A binomial coefficient C(n, r) also gives the number of ways, disregarding order, that r objects can be chosen from among n objects more formally, the number of r-element subsets (or r-combinations) of a n-element set.
