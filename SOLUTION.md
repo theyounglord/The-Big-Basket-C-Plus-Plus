@@ -1,3 +1,28 @@
+### Program to Print Pascal Triangle
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+int fact(int num){
+    int factorial=1;
+    for(int i=1;i<=num;i++){
+        factorial=factorial*i;
+    }
+    return factorial;
+}
+
+int32_t main(){
+    int num;
+    cin>>num;
+    for(int i=0;i<num;i++){
+        for(int j=0;j<=i;j++){
+            int Position=(fact(i)/(fact(i-j)*fact(j)));
+            cout<<Position<<" ";
+        }cout<<endl;        
+    }
+    return 0;
+}
+```
 ### Program to calculate nCr i.e Binary coefficient using functions
 ```cpp
 #include<bits/stdc++.h>
