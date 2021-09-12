@@ -403,5 +403,12 @@ Well if you are getting bored click on Mew and do your coding with some beats.,
 - [ ] Write a program with two functions to print the maximum and the minimum number respectively among three numbers entered by user / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#program-with-two-functions-to-print-the-maximum-and-the-minimum-number-respectively-among-three-numbers-entered-by-user)
 - [ ] Write a program with a function to swap the values of 2 given integer variables / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#program-with-a-function-to-swap-the-values-of-2-given-integer-variables)
 - [ ] Write a program using functions to check if a person is eligible for voting or not by comparing his age with legal voting age i.e. 18 / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#program-using-functions-to-check-if-a-person-is-eligible-for-voting-or-not-by-comparing-his-age-with-legal-voting-age-ie-18)
+- [ ] Program to find sum of first n natural numbers / [Solution]()
+- [ ] Check whether the given triplet is pyhagorian triplet or not / [Solution]()
+- [ ] Program to convert an octal number to decimal number / [Solution]()
+- [ ] Program to convert decimal to octal representation / [Solution]()
+- [ ] Program to convert hexadecimal to decimal representation / [Solution]()
+- [ ] Program to convert Decimal to Hexadecimal representation / [Solution]()
+- [ ] Program to add two binary numbers / [Solution]()
 
 # [<p align="right"><img src="Assets/moveup.gif" width="50px"></p>](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus#the-big-basket-c)
