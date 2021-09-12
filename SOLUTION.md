@@ -1,3 +1,121 @@
+###  Program using functions to check if a person is eligible for voting or not by comparing his age with legal voting age i.e. 18
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+bool checkVotingAge(int age) {
+    if(age>=18){
+        return true;
+    }
+    return false;
+}
+
+int32_t main(){
+    int age;
+    cin>>age;
+    if(checkVotingAge(age)){
+        cout<<"Eligible voter"<<endl;
+    }else{
+        cout<<"Not eligible voter";
+    }
+    return 0;
+}
+```
+###  Program with a function to swap the values of 2 given integer variables
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+int32_t main(){
+    int a,b;
+    cin>>a>>b;
+    swap(a,b);
+    cout<<"a="<<a<<endl;
+    cout<<"b="<<b<<endl;
+    return 0;
+}
+```
+###  Program with two functions to print the maximum and the minimum number respectively among three numbers entered by user
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+int maximumNumber(int a, int b, int c){
+    int max;
+    if(a>b&&a>c){
+        max=a;
+    }if(b>a&&b>c){
+        max=b;
+    }if(c>a&&c>b){
+        max=c;
+    }
+    return max;
+}
+
+int minimumNumber(int a, int b, int c){
+    int min;
+    if(a<b&&a<c){
+        min=a;
+    }if(b<a&&b<c){
+        min=b;
+    }if(c<a&&c<b){
+        min=c;
+    }
+    return min;
+}
+
+int32_t main() {
+    int n1,n2,n3;
+    cin >> n1 >> n2 >> n3;
+    cout<<"Max="<<maximumNumber(n1,n2,n3)<<endl;
+    cout<<"Min="<<minimumNumber(n1,n2,n3);
+    return 0;
+}
+```
+###  Program to find out whether a given character is an alphabet or not using functions
+#include<bits/stdc++.h>
+using namespace std;
+
+bool isAlphabet(char c){
+    if((c>=97&&c<=122) || (c>=65&&c<=90)){
+        return true;
+    }
+    return false;
+}
+
+int32_t main(){
+    char ch;
+    cin>>ch;
+    if(isAlphabet(ch)){
+        cout<<"Alphabet";
+    }else{
+        cout<<"Try Something else...";
+    }
+    return 0;
+}
+###  Program to find out whether a given number is even or odd using functions
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+bool isEvenorOdd(int num){
+    if(num%2==0){
+        return false;
+    }
+    return true;
+}
+
+int32_t main(){
+    int n;
+    cin>>n;
+    if(isEvenorOdd(n)){
+        cout<<"Odd";
+    }else{
+        cout<<"Even";
+    }
+    return 0;
+}
+```
 ### Program to Print Pascal Triangle
 ```cpp
 #include <bits/stdc++.h>
