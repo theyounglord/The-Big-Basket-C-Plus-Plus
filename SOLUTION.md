@@ -73,6 +73,7 @@ int32_t main() {
 }
 ```
 ###  Program to find out whether a given character is an alphabet or not using functions
+```cpp
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -93,6 +94,7 @@ int32_t main(){
     }
     return 0;
 }
+```
 ###  Program to find out whether a given number is even or odd using functions
 ```cpp
 #include<bits/stdc++.h>
