@@ -1,3 +1,92 @@
+### Add two binary numbers
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+int reverse(int num){
+    int new_num=0;
+    while(num>0){
+        int lastdigit=num%10;
+        new_num=new_num*10+lastdigit;
+        num/=10;
+    }
+    return new_num;
+}
+
+int addBinary(int a,int b){
+    int new_num=0;
+    int previous_carry=0;
+    while(a>0 &&b>0){
+        if(a%2==0 && b%2==0){
+            new_num=new_num*10+previous_carry;
+            previous_carry=0;
+        }
+        else if((a%2==0 && b%2==1) || (a%2==1 && b%2==0)){
+            if(previous_carry==1){
+                new_num=new_num*10+0;
+                previous_carry=1;
+            }
+            else{
+                new_num=new_num*10+1;
+                previous_carry=0;
+            }
+        }
+        else{
+            new_num=new_num*10+previous_carry;
+            previous_carry=1;
+        }
+        a/=10;
+        b/=10;
+    }
+
+    while(a>0){
+        if(previous_carry==1){
+            if(a%2==1){
+                new_num=new_num*10+0;
+                previous_carry=1;
+            }
+            else{
+                new_num=new_num*10+1;
+                previous_carry=0;
+            }
+        }
+        else{
+            new_num=new_num*10+(a%10);
+        }
+        a/=10;
+    }
+
+    while(b>0){
+        if(previous_carry==1){
+            if(b%2==1){
+                new_num=new_num*10+0;
+                previous_carry=1;
+            }
+            else{
+                new_num=new_num*10+1;
+                previous_carry=0;
+            }
+        }
+        else{
+            new_num=new_num*10+(b%10);
+        }
+        b/=10;
+    }
+    if(previous_carry==1){
+        new_num=new_num*10+1;
+    }
+    new_num=reverse(new_num);
+    return new_num;
+}
+
+
+int32_t main(){
+    int a,b;
+    cin>>a>>b;
+    cout<<addBinary(a,b);
+    return 0;
+}
+```
 ### Sum of n natural numbers
 ```cpp
 #include<bits/stdc++.h>
