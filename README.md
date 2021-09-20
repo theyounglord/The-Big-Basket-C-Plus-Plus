@@ -411,7 +411,7 @@ Well if you are getting bored click on Mew and do your coding with some beats.,
 - [ ] Program to convert Decimal to Hexadecimal representation / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#decimal-to-hexadecimal-representation)
 - [ ] Program to add two binary numbers / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#add-two-binary-numbers)
 
-## Let's Opyimize our code
+## Let's Optimize your code [For indians](https://www.youtube.com/watch?v=rq_rwnveh8s&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=17) / [For Others](https://www.youtube.com/watch?v=D6xkbGLQesk)
 Well you are doing great but one thing that's making you slow is that you don't know what is the optimization of code and how to do that?
 Before moving ahead let's understand What is optimization of code and how you can implement in your code and what is the importance of that.
 
