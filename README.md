@@ -487,4 +487,7 @@ Example 3:
 Input: nums = [3,1,2,10,1]
 Output: [3,4,6,16,17]
 ```
+## Let's understand the concept of Searching / [For Indians](https://www.youtube.com/watch?v=13ocRMSJy5M) / Other than Indians- [LS](https://www.youtube.com/watch?v=4GPdGsB3OSc) / [BS](https://www.youtube.com/watch?v=P3YID7liBug)
+- [ ] Program to implement linear search / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#linear-search)
+- [ ] Program to implement binary search / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#binary-search)
 # [<p align="right"><img src="Assets/moveup.gif" width="50px"></p>](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus#the-big-basket-c)
