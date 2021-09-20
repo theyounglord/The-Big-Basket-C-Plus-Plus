@@ -1,3 +1,70 @@
+### Bubble Sort
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+void bubbleSort(int array[],int n){
+    int iteration=1;
+    while(iteration<n-1){
+        for(int i=0;i<n-iteration;i++){
+            if(array[i]>array[i+1]){
+                swap(array[i],array[i+1]);
+            }
+        }
+        iteration++;
+    }
+    return;
+}
+
+int32_t main(){
+    int n;
+    cin>>n;
+    int array[n];
+    for(int i=0; i<n; i++){
+        cin>>array[i];
+    }
+
+    bubbleSort(array,n);
+
+    for(int i=0; i<n; i++){
+        cout<<array[i];
+    }
+    return 0;
+}
+```
+### Insertion Sort
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+void insertionSort(int array[],int n){
+    for(int i=1;i<n;i++){
+        int current=array[i];
+        int j=i-1;
+        while(array[j]>current&&j>=0){
+            array[j+1]=array[j];
+            j--;
+        }
+        array[j+1]=current;
+    }
+    return;
+}
+
+int32_t main(){
+    int n;
+    cin>>n;
+    int array[n];
+    for(int i=0; i<n; i++){
+        cin>>array[i];
+    }
+
+    insertionSort(array,n);
+    for(int i=0; i<n; i++){
+        cout<<array[i]<<" ";
+    }
+    return 0;
+}
+```
 ### Chocolate Riddle
 ```cpp
 #include<bits/stdc++.h>
