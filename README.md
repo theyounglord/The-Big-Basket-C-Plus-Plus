@@ -414,5 +414,6 @@ Well if you are getting bored click on Mew and do your coding with some beats.,
 ## Let's Optimize your code (Understanding Complexities of your code) [For indians](https://www.youtube.com/watch?v=rq_rwnveh8s&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=17) / [For Others](https://www.youtube.com/watch?v=D6xkbGLQesk)
 Well you are doing great but one thing that's making you slow is that you don't know what is the optimization of code and how to do that?
 Before moving ahead let's understand What is optimization of code and how you can implement in your code and what is the importance of that.
+# Understanding the concept of array [For Indians](https://www.youtube.com/watch?v=PyTK_g1l8V8) / [Other than Indians]()
 
 # [<p align="right"><img src="Assets/moveup.gif" width="50px"></p>](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus#the-big-basket-c)
