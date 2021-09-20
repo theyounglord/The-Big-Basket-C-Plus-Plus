@@ -416,10 +416,10 @@ Well you are doing great but one thing that's making you slow is that you don't 
 Before moving ahead let's understand What is optimization of code and how you can implement in your code and what is the importance of that.
 ## Understanding the concept of Array [For Indians](https://www.youtube.com/watch?v=PyTK_g1l8V8) / [Other than Indians](https://www.youtube.com/watch?v=eOdNhPwOInc)
 
-- [ ] Program to declare array
-- [ ] Program to take take input from user for array and then print array
-- [ ] Program to take input of an array of size n and then find maximum and minimum values
-- [ ] Program to print Kids With the Greatest Number of Candies
+- [ ] Program to declare array / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#program-to-declare-array)
+- [ ] Program to take take input from user for array and then print array / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#program-to-take-take-input-from-user-and-then-make-array)
+- [ ] Program to take input of an array of size n and then find maximum and minimum values / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#program-to-take-input-of-an-array-of-size-n-and-then-find-maximum-and-minimum-values)
+- [ ] Program to print Kids With the Greatest Number of Candies / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#program-to-print-kids-with-the-greatest-number-of-candies)
 ```
 EXPLANATION:-
 There are n kids with candies. You are given an integer array candies, 
@@ -463,7 +463,7 @@ Constraints:
     1 <= candies[i] <= 100
     1 <= extraCandies <= 50
 ```
-- [ ] Program to print Running Sum of 1d Array
+- [ ] Program to print Running Sum of 1d Array / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#program-to-print-running-sum-of-1d-array)
 ```
 Expalanation:-
 Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
