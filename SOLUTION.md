@@ -1,3 +1,63 @@
+### Chocolate Riddle
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int money;
+    cout<<"How much money you have:"<<endl;
+    cin>>money;
+    int chocolate_count=0;
+    int wrapper_count=0;
+    for(int i=1;i<=money;i++){
+        chocolate_count++;
+    }
+    int chocolates=chocolate_count;
+    while(chocolate_count>=3){
+        wrapper_count+=chocolate_count/3;
+        chocolate_count/=3;
+        if(wrapper_count>=3&&wrapper_count<6){    // we have to increse the chocolate count only when we have less than 6 chocolates
+            chocolate_count++;                    // and greater than or equal to 3.
+        }
+    }
+    chocolates+=wrapper_count;
+    cout<<chocolates;
+    return 0;
+
+}
+```
+### Selection Sort
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+void selectionSort(int array[], int n){
+    for(int i = 0; i < n-1;i++){
+        for(int j=i+1; j < n; j++){
+            if(array[i] > array[j])   {
+                swap(array[i],array[j]);
+            }
+        }
+    }
+    return;
+}
+
+int32_t main(){
+    int n;
+    cin>>n;
+    int array[n];
+    for(int i=0; i<n; i++){
+        cin>>array[i];
+    }
+
+    selectionSort(array, n);
+
+    for(int i=0; i<n; i++){
+        cout<<array[i]<<" ";
+    }
+    
+    return 0;
+}
+```
 ### Linear Search
 ```cpp
 #include<bits/stdc++.h>
