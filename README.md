@@ -490,4 +490,22 @@ Output: [3,4,6,16,17]
 ## Let's understand the concept of Searching / [For Indians](https://www.youtube.com/watch?v=13ocRMSJy5M) / Other than Indians- [LS](https://www.youtube.com/watch?v=4GPdGsB3OSc) / [BS](https://www.youtube.com/watch?v=P3YID7liBug)
 - [ ] Program to implement linear search / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#linear-search)
 - [ ] Program to implement binary search / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#binary-search)
+## Let's Understand the Selection Sort / [For Indians](https://www.youtube.com/watch?v=dQa4A2Z0_Ro) / [Other than Indians](https://www.youtube.com/watch?v=xWBP4lzkoyM)
+- [ ] Program to implement selection sort (Select the smallest num and swap with the first element) / [solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#selection-sort)
+- [ ] Let's Solve a riddle and write a program for this / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#chocolate-riddle)
+```
+Let's assume you have 15 rupeese . Now you go to shopkeeper's shop to buyt chocolates.
+Now shopkeeper tell you that for each chocolate you have to pay 1 rupee.
+And also you can buy 1 chocolate for 3 chocolate wrapers.
+How many chocolates you can actually purchase
+```
+## Let's Understand the Bubble Sort / [For Indians](https://www.youtube.com/watch?v=xcPFUCh0jT0) / [Other than Indians](https://www.youtube.com/watch?v=nmhjrI-aW5o)
+- [ ] Program to implement  bubble sort algorithm / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#bubble-sort)
+## Let'sUnderstand the Insertion sort / [For Indians](https://www.youtube.com/watch?v=3GC83dh4cf0) / [Other than Indians](https://www.youtube.com/watch?v=OGzPmgsI-pQ)
+- [ ] Program to implement the insertion sort algorithm / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#insertion-sort)
+## Let's solve some of the important question related to the concepts we know till now
+- [ ] Given an array a[] of size n. For every i from 0 to n-1 output max(a[0], a[1],..., a[i])
+```EXAMPLE
+```
+
 # [<p align="right"><img src="Assets/moveup.gif" width="50px"></p>](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus#the-big-basket-c)
