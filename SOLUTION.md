@@ -1,3 +1,105 @@
+### Program to declare array
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int Marvel_mem[5]={5,6,7,4,3};
+    cout<<Marvel_mem[0];
+}
+```
+### Program to take take input from user and then make array
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int size;
+    cout<<"eneter the size of the array"<<endl;
+    cin>>size;
+    int array[size];
+    for(int i=0; i<size; i++){
+        cin>>array[i];
+        cout<<array[i];
+    }
+    for(int i=0; i<size; i++){  // another way
+        cout<<array[i]<<" ";
+    }
+}
+```
+### Program to take input of an array of size n and then find maximum and minimum values
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int n;
+    cin>>n;
+    int array[n];
+    for(int i=0; i<n; i++){
+        cin>>array[i];
+    }
+    int maximum=INT32_MIN;
+    int minimum=INT32_MAX;
+
+    for(int i=0; i<n; i++){
+        maximum=max(maximum,array[i]);
+        minimum=min(minimum,array[i]);
+    }
+    cout<<"Max no.="<<maximum<<endl;
+    cout<<"Min no.="<<minimum<<endl;
+}
+```
+### Program to print Kids With the Greatest Number of Candies
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+
+
+int32_t main(){
+    int n,i;
+    cin>>n;
+    int array[n];
+    for(i=0; i<n; i++){
+        cin>>array[i];
+    }
+    int extracandidate;
+    cin>>extracandidate;
+
+    int maximum=INT32_MIN;
+    
+    for(i=0; i<n; i++){
+        maximum=max(maximum,array[i]);
+    }
+    
+    for(i=0; i<n; i++){
+        if(array[i]+extracandidate>=maximum){
+            cout<<"true"<<endl;
+        }else{
+            cout<<"false"<<endl;
+        }
+    }
+    return 0;
+}
+```
+### Program to print Running Sum of 1d Array
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+ 
+// Driver code
+int main()
+{
+    int n;
+    cin>>n;
+    int array[n];
+    int sum=0;
+    for(int i=0; i<n; i++){
+        cin>>array[i];
+        sum+=array[i];
+        cout<<sum<<endl;
+    }
+    return 0;
+}
+```
 ### Add two binary numbers
 ```cpp
 #include<bits/stdc++.h>
