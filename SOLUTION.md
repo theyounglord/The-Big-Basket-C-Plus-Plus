@@ -1,4 +1,183 @@
-###  Program using functions to check if a person is eligible for voting or not by comparing his age with legal voting age i.e. 18
+### Sum of n natural numbers
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+int sumOfNums(int n) {
+    int sum;
+    sum=(n*(n+1))/2;
+    return sum;
+}
+
+int32_t main(){
+    int num;
+    cin>>num;
+    cout<<sumOfNums(num);
+    return 0;
+}
+```
+### Check whether the given triplet is pyhagorian triplet or not
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+int maximumNumber(int a, int b, int c){
+    int max;
+    if(a>b&&a>c){
+        max=a;
+    }if(b>a&&b>c){
+        max=b;
+    }if(c>a&&c>b){
+        max=c;
+    }
+    return max;
+}
+
+bool check(int a, int b,int c){
+    int x= max(a,max(b,c));// max function is inbuilt function which can find maximum among two numbers
+    //int x= maximumNumber(a,b,c); You can also use this function to call above one 
+    int y,z;
+    if(x==a){
+        y=b;
+        z=c;
+    }else if(x==b){
+        y=a;
+        z=c;
+    }else{
+        y=b;
+        z=a;
+    }
+    if(pow(x,2)==pow(y,2)+pow(z,2)){
+        return true;
+    }else{
+        return false;
+    }
+}
+
+int main(){
+    int a,b,c;
+    cin>>a>>b>>c;
+    if(check(a,b,c)){
+        cout<<"Pythagorian triplet"<<endl;
+    }else{
+        cout<<"Not pythagorian triplet"<<endl;
+    }
+    return 0;
+}
+```
+### Octal number to decimal number
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+int OctalToBinary(int num){
+    int new_num=0;
+    int count=0;
+    while(num>0){
+        int remainder = num%10;
+        new_num = (remainder*pow(8,count))+new_num;
+        num/=10;
+        count++;
+    }
+    return new_num;
+}
+
+int32_t main(){
+    int n;
+    cin>>n;
+    cout<<OctalToBinary(n);
+    return 0;
+}
+```
+### Decimal to octal representation
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+int DecimalToOctal(int num){
+    int new_num=0;
+    int count=1;
+    while(count<=num){
+        count*=8;
+    }count/=8;
+
+    while(count>0){
+        int lastdigit=num/count;
+        num=num-lastdigit*count;
+        count/=8;
+        new_num=(new_num*10)+lastdigit;
+    }
+    return new_num;
+}
+
+int32_t main(){
+    int n;
+    cin>>n;
+    cout<<DecimalToOctal(n);
+    return 0;
+}
+```
+### Hexadecimal to decimal representation
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+int HexaDecimaltoDecimal(string str){
+    int new_num = 0;
+    int count = 1;
+    int s=str.size();
+    for(int i=s-1;i>=0;i--){
+        if(str[i]>='0' && str[i]<='9'){
+            new_num=new_num+count*(str[i]-'0');
+        }else if(str[i]>='A' && str[i]<='F'){
+            new_num=new_num+count*(str[i]-'A'+10);
+        }
+        count*=16;
+    }
+    return new_num;
+}
+
+int32_t main(){
+    string n;
+    cin>>n;
+    cout<<HexaDecimaltoDecimal(n)<<endl;
+    return 0;
+}
+```
+### Decimal to Hexadecimal representation
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+string DecimaltoHex(int str){
+    string new_num="";
+    int count=1;
+    while(count<=str){
+        count*=16;
+    }count/=16;
+
+    while(count>0){
+        int lastdigit=str/count;
+        str=str-lastdigit*count;
+        count/=16;
+        if(lastdigit<=9){
+            new_num=new_num + to_string(lastdigit);
+        }else{
+            char c ='A'+lastdigit-10;
+            new_num.push_back(c);
+        }
+    }
+    return new_num;
+}
+
+int32_t main(){
+    int n;
+    cin>>n;
+    cout<<DecimaltoHex(n)<<endl;
+    return 0;
+}
+```
+### Program using functions to check if a person is eligible for voting or not by comparing his age with legal voting age i.e. 18
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
