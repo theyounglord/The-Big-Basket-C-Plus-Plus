@@ -506,6 +506,6 @@ How many chocolates you can actually purchase
 ## Let's solve some of the important question related to the concepts we know till now
 - [ ] Given an array a[] of size n. For every i from 0 to n-1 output max(a[0], a[1],..., a[i])
 
-<img src="Assets/Screenshot%202021-09-20%20at%2022-01-57%20Arrays%20Challenge%20(Max%20till%20i)_watermark%20pdf.png"
+<img src="Assets/Screenshot 2021-09-20 at 22-01-57 Arrays Challenge (Max till i)_watermark pdf.png"
 
 # [<p align="right"><img src="Assets/moveup.gif" width="50px"></p>](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus#the-big-basket-c)
