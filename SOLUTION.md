@@ -1,3 +1,99 @@
+### Given an array a[] of size n. For every i from 0 to n-1 output max(a[0], a[1],..., a[i])
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int n;
+    cin>>n;
+    int array[n];
+    for(int i=0; i<n; i++){
+        cin>>array[i];
+    }
+    int maximum=INT32_MIN;
+    for(int i=0; i<n; i++){
+        maximum=max(maximum,array[i]);
+        cout<<maximum<<" ";
+    }
+    return 0;
+}
+```
+### Given an array a[] of size n. Output sum of each subarray of the given array
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int n;
+    cin>>n;
+    int array[n];
+    for(int i=0; i<n; i++){
+        cin>>array[i];
+    }
+    for(int i=0; i<=n-1; i++){
+        int sum=0;
+        for(int j=i;j<=n-1;j++){
+            sum+=array[j];
+            cout<<sum<<endl;
+        }
+    }
+}
+```
+### Program to print Longest Arithmetic Subarray's length
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int n;
+    cin>>n;
+    int array[n];
+    for(int i=0;i<n;i++){
+        cin>>array[i];
+    }
+
+    int ans=2;
+    int pcd=array[1]-array[0];
+    int j=2;
+    int current_length=2;
+
+    while(j<n){
+        if(pcd==array[j]-array[j-1]){
+            current_length++;
+        }else{
+            pcd=array[j]-array[j-1];
+            current_length=2;
+        }
+        ans=max(ans,current_length);
+        j++;
+    }
+    cout<<ans<<endl;
+    return 0;
+}
+```
+### Program to find the number of record breaking days
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int32_t main(){
+    int n;
+    cin>>n;
+    int ans=0;
+    int array[n];
+    for(int i=0; i<n; i++){
+        cin>>array[i];
+    }
+    int maximum=INT32_MIN;
+    maximum=max(array[0],maximum);
+    int j=1;
+    while(j<n){
+        if((array[j]>maximum)&&(array[j]>array[j+1])||(array[j]==array[n-1])){
+            ans++;
+            maximum=max(maximum,array[j]);
+        }
+        j++;
+    }
+    cout<<ans<<endl;
+    return 0;
+}
+```
 ### Bubble Sort
 ```cpp
 #include <bits/stdc++.h>
