@@ -511,6 +511,7 @@ How many chocolates you can actually purchase
 - [ ] Given an array a[] of size n. Output sum of each subarray of the given array / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#given-an-array-a-of-size-n-output-sum-of-each-subarray-of-the-given-array)
 
 <img src="Assets/Screenshot 2021-10-05 at 11-10-17 Arrays Challenge-Sum of all sub arrays pdf.png" width="500px">
+
 - [ ] Program to print Longest Arithmetic Subarray's length / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#program-to-print-longest-arithmetic-subarrays-length)
 
 <img src="Assets/Arrays Challenge-Longest Arithmetic Subarray_watermark pdf.png" width="500px">
