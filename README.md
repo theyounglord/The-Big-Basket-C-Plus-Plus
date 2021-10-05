@@ -524,4 +524,57 @@ satisfies both of the following conditions:
       * Note that the very first day could be a record breaking day! 
 Please help Isyana find out the number of record breaking days. / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#program-to-find-the-number-of-record-breaking-days)
 
+- [ ] Given an array ​arr​[] of size ​N​. The task is to find the first repeating element in an array of integers, i.e., an element that occurs more than once and whose index of 
+first occurrence is smallest / [Solution]()
+```cpp
+Constraints 
+1 <= N <= 10​6 
+0 <= Ai <= 10​6 
+ 
+Example 
+Input​: 
+7 
+1 5 3 4 3 5 6 
+ 
+Output​:  
+2 
+ 
+Explanation​:  
+5 is appearing twice and its first appearance is at index 2 which is less than 3 
+whose first occurring index is 3
+```
+- [ ] Given an unsorted array ​A ​of size ​N​ of non-negative integers, find a continuous subarray which adds to a given number ​S / Program to print Subarrays with given sum / [Solution-1]() / [Solution-2]()
+```cpp
+Constraints 
+1 <= N <= 10​5 
+0 <= Ai <= 10​10 
+ 
+Example 
+Input​: 
+N = 5, S = 12 
+A[] = {1,2,3,7,5} 
+ 
+Output​: ​2 4 
+Explanation​: ​The sum of elements from 2nd position to 4th position is 12
+```
+- [ ] Program to print smallest positive missing number in array / [Solution]()
+```cpp
+Example:  [0, -10, 1, 3, -20], Ans = 2
+```
+```cpp
+Hnt:-
+1. Build the Check[ ] array initialized with False at all indices.  
+2. By iterating over the array and marking non-negative a[i] as true i.e.  
+if(a[i] >= 0)  
+    check[a[i]] = True 
+3. Iterate in the Check[ ] from i=1, BREAK the loop when you find check[i] = 
+False and store that i in the ans variable. 
+4. Output the ans
+```
+- [ ] Program to print all sub array of an array of size n / [Solution]()
+- [ ] Program to find the subarray with maximum sum / [O(n^3)approach]() / [O(n^2)approach]() / [Kaden's Algorithm approach O(n)]()
+- [ ] Program to find maximum circular  subarray sum / [Solution]()
+- [ ] PAIR SUM PROBLEM
+`Program to check if there is any two element in an arrray such that their sum is equal to the given k` [Solution]()
+
 # [<p align="right"><img src="Assets/moveup.gif" width="50px"></p>](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus#the-big-basket-c)
