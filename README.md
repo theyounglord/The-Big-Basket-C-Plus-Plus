@@ -504,12 +504,16 @@ How many chocolates you can actually purchase
 ## Let'sUnderstand the Insertion sort / [For Indians](https://www.youtube.com/watch?v=3GC83dh4cf0) / [Other than Indians](https://www.youtube.com/watch?v=OGzPmgsI-pQ)
 - [ ] Program to implement the insertion sort algorithm / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#insertion-sort)
 ## Let's solve some of the important question related to the concepts we know till now
-- [ ] Given an array a[] of size n. For every i from 0 to n-1 output max(a[0], a[1],..., a[i]) / [Solution]()
+- [ ] Given an array a[] of size n. For every i from 0 to n-1 output max(a[0], a[1],..., a[i]) / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#given-an-array-a-of-size-n-for-every-i-from-0-to-n-1-output-maxa0-a1-ai)
 
 <img src="Assets/Screenshot 2021-09-20 at 22-01-57 Arrays Challenge (Max till i)_watermark pdf.png" width="500px">
 
-- [ ] Given an array a[] of size n. Output sum of each subarray of the given array
-- [ ] Program to print Longest Arithmetic Subarray's length
+- [ ] Given an array a[] of size n. Output sum of each subarray of the given array / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#given-an-array-a-of-size-n-output-sum-of-each-subarray-of-the-given-array)
+
+<img src="Assets/Screenshot 2021-10-05 at 11-10-17 Arrays Challenge-Sum of all sub arrays pdf.png" width="500px">
+- [ ] Program to print Longest Arithmetic Subarray's length / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#program-to-print-longest-arithmetic-subarrays-length)
+
+<img src="Assets/Arrays Challenge-Longest Arithmetic Subarray_watermark pdf.png" width="500px">
 - [ ] Isyana is given the number of visitors at her local theme park on ​N​ consecutive 
 days. The number of visitors on the i-th day is ​V​i​. A day is ​record breaking​ if it 
 satisfies both of the following conditions: 
@@ -517,6 +521,6 @@ satisfies both of the following conditions:
       * The number of visitors on the day is strictly larger than the number of visitors on each of the previous days. 
       * Either it is the last day, or the number of visitors on the day is strictly larger than the number of visitors on the following day. 
       * Note that the very first day could be a record breaking day! 
-Please help Isyana find out the number of record breaking days.
+Please help Isyana find out the number of record breaking days. / [Solution](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus/blob/main/SOLUTION.md#program-to-find-the-number-of-record-breaking-days)
 
 # [<p align="right"><img src="Assets/moveup.gif" width="50px"></p>](https://github.com/theyounglord/The-Big-Basket-C-Plus-Plus#the-big-basket-c)
